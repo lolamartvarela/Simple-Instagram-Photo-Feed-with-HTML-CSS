@@ -1,0 +1,59 @@
+h1 {
+    text-align: center;
+}
+
+.contenedor {
+    background-color: lightgrey;
+    padding-top: 50px;
+    padding-bottom: 50px;
+   
+}
+
+.caja {
+    width: 500px;
+    height: 420px;
+    background-color: white;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+body {
+    margin: 0;
+    text-align: center;
+
+}
+
+.title {
+    display: flex; 
+    align-items: center;
+    height: 45px;
+}
+
+.encabezado {
+    padding-left: 10px;
+}
+
+.numerador {
+    margin-left: auto;
+    padding-right: 10px;
+    color: grey;
+}
+
+img {
+    width: 500px;
+    height:300px;
+
+}
+
+.imagen{
+    width: 500px;
+    height:300px;
+}
+
+.footer {
+    margin: auto 10px;
+    height: 80px;
+    text-align: justify;
+}
+
